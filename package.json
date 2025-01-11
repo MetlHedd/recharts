@@ -1,6 +1,6 @@
 {
-  "name": "@metlhedd/recharts",
-  "version": "3.0.0-alpha.2",
+  "name": "recharts",
+  "version": "3.0.2",
   "description": "React charts",
   "main": "lib/index.js",
   "module": "es6/index.js",
