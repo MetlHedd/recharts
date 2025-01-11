@@ -66,11 +66,6 @@
     "url": "https://github.com/recharts/recharts/issues"
   },
   "homepage": "https://github.com/recharts/recharts",
-  "peerDependencies": {
-    "react": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0",
-    "react-dom": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0",
-     "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
-  },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "clsx": "^2.1.1",
